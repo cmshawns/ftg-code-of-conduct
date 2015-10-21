@@ -25,47 +25,29 @@ The following behaviors are expected and requested of all community members:
 
 ## 3. Unacceptable Behavior
 
-**TODO:** Complete this section
+_**TODO:** Review this section_
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
-- Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
+- Violence, threats of violence or violent language directed against another person or group of people, including encouraging a person to commit suicide or to engage in self-harm.
+- Offensive comments related to gender, gender identity and expression, sexual. orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion.
 - Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
-- Deliberate misgendering or use of ‘dead’ or rejected names
-- Gratuitous or off-topic sexual images or behaviour  in spaces where they’re not appropriate
-- Physical contact and simulated physical contact (eg, textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop.
-- Threats of violence
-- Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
-- Deliberate intimidation
-- Stalking or following
-- Harassing photography or recording, including logging online activity for harassment purposes
-- Sustained disruption of discussion
-- Unwelcome sexual attention
-- Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
-- Continued one-on-one communication after requests to cease
-- Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other GF members or other vulnerable people from intentional abuse
-- Publication of non-harassing private communication
-
----
-**TODO:** Merge bullet points above with those below.
-
----
-
-- Violence, threats of violence or violent language directed against another person.
-- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
+- Deliberate misgendering or use of ‘dead’ or rejected names.
+- Gratuitous or off-topic sexual images or behaviour  in spaces where they’re not appropriate.
 - Posting or threatening to post other people’s personally identifying information ("doxing").
-- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- Inappropriate photography or recording.
+- Harassing photography or recording, including logging online activity for harassment purposes.
 - Inappropriate physical contact. You should have someone’s consent before touching them.
 - Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
 - Deliberate intimidation, stalking or following (online or in person).
+- Continued one-on-one communication after requests to cease.
+- Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other GF members or other vulnerable people from intentional abuse
+- Publication of non-harassing private communication.
 - Advocating for, or encouraging, any of the above behavior.
 - Sustained disruption of community events, including talks and presentations.
 
 ## 4. Consequences of Unacceptable Behavior
 
-**TODO:** Complete this section
+_**TODO:** Complete this section_
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -75,7 +57,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 5. Reporting Guidelines
 
-**TODO:** Complete this section
+_**TODO:** Complete this section_
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
 
@@ -83,7 +65,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 6. Addressing Grievances
 
-**TODO:** Complete this section
+_**TODO:** Complete this section_
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify GOVERNING_BODY with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
 
@@ -95,7 +77,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 8. Contact info
 
-**TODO:** Complete this section
+_**TODO:** Complete this section_
 
 [YOUR CONTACT INFO HERE — this should be a single person or a small team who can respond to issues directly]
 
