@@ -1,4 +1,4 @@
-This document is the work-in-progress for the [Friendly Tahoma Geeks](http://friendlytahomageeks.com/) code of conduct policy.
+# Code of Conduct Policy for [Friendly Tahoma Geeks](http://friendlytahomageeks.com/)
 
 ----
 
@@ -12,20 +12,18 @@ We invite all those who participate in Friendly Tahoma Geeks to help us create s
 
 ## 2. Expected Behavior
 
-**TODO:** Complete this section
-
 The following behaviors are expected and requested of all community members:
 
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+- Participate in an authentic and constructive way. In doing so, you contribute to the health and longevity of this community.
 - Exercise consideration and respect in your speech and actions.
 - Attempt collaboration before conflict.
 - Refrain from demeaning, discriminatory, or harassing behavior and speech.
 - Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+- When taking pictures or recording video and/or audio of other participants, obtain their permission first.
 - Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-## 3. Unacceptable Behavior
 
-_**TODO:** Review this section_
+## 3. Unacceptable Behavior
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
@@ -40,14 +38,13 @@ The following behaviors are considered harassment and are unacceptable within ou
 - Unwelcome sexual attention. This includes, sexualized comments or jokes, inappropriate touching, groping, and unwelcomed sexual advances.
 - Deliberate intimidation, stalking or following (online or in person).
 - Continued one-on-one communication after requests to cease.
-- Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other GF members or other vulnerable people from intentional abuse
+- Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other community members or other vulnerable people from intentional abuse.
 - Publication of non-harassing private communication.
 - Advocating for, or encouraging, any of the above behavior.
 - Sustained disruption of community events, including talks and presentations.
+- Attempting to sell to or recruit participants for companies, government agencies, organizations or other entities outside the community.
 
 ## 4. Consequences of Unacceptable Behavior
-
-_**TODO:** Complete this section_
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -57,17 +54,13 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 5. Reporting Guidelines
 
-_**TODO:** Complete this section_
-
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. If you cannot identify a community organizer send e-mail to [contact@friendlytahomageeks.com](mailto:contact@friendlytahomageeks.com).
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 6. Addressing Grievances
 
-_**TODO:** Complete this section_
-
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify GOVERNING_BODY with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [contact@friendlytahomageeks.com](mailto:contact@friendlytahomageeks.com) with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 ## 7. Scope
 
@@ -77,12 +70,18 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 8. Contact info
 
-_**TODO:** Complete this section_
-
-[YOUR CONTACT INFO HERE — this should be a single person or a small team who can respond to issues directly]
+[contact@friendlytahomageeks.com](mailto:contact@friendlytahomageeks.com)
 
 ## 9. License and attribution
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
 This document is based on the [Citizen Code of Conduct](http://citizencodeofconduct.org/) with portions of text dervied from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+## 10. Requesting changes to this policy
+
+The Code of Conduct Policy for [Friendly Tahoma Geeks](http://friendlytahomageeks.com/) is maintained at [PenFlip](https://www.penflip.com) and is publicly accessible.  If you have an addition or suggestion for the policy you may present it by going to the following address:
+
+<https://www.penflip.com/DodgerWA/code-of-conduct-for-friendly-tahoma-geeks>
+
+and submitting a change request.  (PenFlip account required.)  A history of changes can be found at the same location.
